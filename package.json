@@ -3,7 +3,7 @@
   "homepage": "https://demos.creative-tim.com/vue-tailwind-webapp/",
   "version": "1.0.0",
   "description": "Doctor Run",
-  "repository": "https://github.com/creativetimofficial/vue-tailwind-webapp",
+  "repository": "https://github.com/xmanhit/DoctorRun",
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
